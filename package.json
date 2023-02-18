@@ -1,0 +1,18 @@
+{
+  "name": "etc_cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "etc": "bin/cli.js"
+  },
+  "description": "",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
